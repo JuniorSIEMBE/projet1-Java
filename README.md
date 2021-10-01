@@ -1,4 +1,4 @@
-<h1>First Java's project to introduce basics notions on OOP</h1>
+<h1>First Java's project to introduce basics notions of OOP</h1>
 <p>In this project, we introduce the main notions of the OOP such as: <b> Class, Object, attributes, methods.</b></p>
 <p>We present how to create a class with properties and how to implement methods of the class. </p>
 <p>We also show how to implement particular methods like <b>Getters </b> and <b> Setters </b> and key words like: <b> static </b> and <b> final </b> </p>
